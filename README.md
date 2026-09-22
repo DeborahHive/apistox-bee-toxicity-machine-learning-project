@@ -100,7 +100,7 @@ apistox/
 
 Clone the repository:
 
-git clone https://github.com/yourusername/apistox.git
+git clone https://github.com/DeborahHive/apistox-bee-toxicity-machine-learning-project.git
 
 cd apistox
 
